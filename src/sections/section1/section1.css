@@ -67,19 +67,20 @@
   }
 }
 
-@media only screen and (max-width: 330px){
-  .ill{
+@media only screen and (max-width: 330px) {
+  .ill {
     margin-left: -52vw !important;
   }
-  .hello{
+  .hello {
     padding-top: 35vh !important;
   }
-  .social{
-    padding-top: 0vh !important;
+  .social {
+    padding-top: 0 !important;
     padding-bottom: 120px;
+    margin-top: -15px !important;
   }
-  .section1{
-    font-size: 1.0em;
+  .section1 {
+    font-size: 1em;
   }
   .mono {
     margin-top: 0px;
@@ -88,23 +89,34 @@
   .monoL {
     font-size: 25px;
   }
-  .flex{
+  .flex {
     min-width: max-content;
+  }
+  .social {
+    padding-top: 0 !important;
+  }
+  .left-side{
+    margin-left: 4vw !important;
   }
 }
 
 @media only screen and (max-width: 450px) and (min-width: 330px) {
-  .section1{
-    font-size: 1.0em;
+  .section1 {
+    font-size: 1em;
   }
-  .hello{
+  .left-side{
+    margin-left: 4vw !important;
+  }
+  .hello {
     padding-top: 25vh !important;
   }
-  .ill{
+  .ill {
     margin-left: -48vw !important;
   }
-  .social{
+  .social {
     padding-bottom: 120px;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
   }
   .mono {
     margin-top: 0px;
@@ -113,7 +125,7 @@
   .monoL {
     font-size: 25px;
   }
-  .flex{
+  .flex {
     min-width: max-content;
   }
 }
@@ -128,7 +140,7 @@
     max-width: 200%;
     padding-top: 45vh;
   }
-  .hello{
+  .hello {
     padding-top: 20vh;
   }
   .monoL {
@@ -137,7 +149,7 @@
   .mono {
     min-width: fit-content;
   }
-  .social{
+  .social {
     margin-left: 8vw;
     min-width: 100%;
   }
@@ -174,25 +186,25 @@
   padding-bottom: 20px;
 }
 
-.social{
+.social {
   display: flex;
   width: 50%;
   padding-left: 23%;
   padding-top: 5vh;
 }
-.socialicon{
+.socialicon {
   max-width: 25%;
 }
-.social a{
+.social a {
   height: 100% !important;
   width: 100% !important;
 }
 
-.socialicon{
+.socialicon {
   max-width: 80%;
   padding-left: 2vw;
 }
 
-.socialicon:hover{
+.socialicon:hover {
   cursor: pointer;
 }
