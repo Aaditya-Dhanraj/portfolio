@@ -15,7 +15,19 @@
   font-weight: 600;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 450px) {
+  .input {
+    width: 150% !important;
+  }
+  .msg{
+    width: 150% !important;
+}
+.btn {
+  width: 150% !important;
+}
+}
+
+@media only screen and (max-width: 600px) and (min-width: 451px)  {
   .btn {
     width: 170% !important;
   }

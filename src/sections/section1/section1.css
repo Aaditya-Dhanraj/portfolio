@@ -51,7 +51,7 @@
 }
 
 .ill {
-  margin-top: 25vh;
+  margin-top: 15vh;
   margin-left: 2vh;
   max-width: 40vw;
   z-index: 2;
@@ -67,17 +67,69 @@
   }
 }
 
+@media only screen and (max-width: 330px){
+  .ill{
+    margin-left: -52vw !important;
+  }
+  .hello{
+    padding-top: 35vh !important;
+  }
+  .social{
+    padding-top: 0vh !important;
+    padding-bottom: 120px;
+  }
+  .section1{
+    font-size: 1.0em;
+  }
+  .mono {
+    margin-top: 0px;
+    font-size: 20px;
+  }
+  .monoL {
+    font-size: 25px;
+  }
+  .flex{
+    min-width: max-content;
+  }
+}
+
+@media only screen and (max-width: 450px) and (min-width: 330px) {
+  .section1{
+    font-size: 1.0em;
+  }
+  .hello{
+    padding-top: 25vh !important;
+  }
+  .ill{
+    margin-left: -48vw !important;
+  }
+  .social{
+    padding-bottom: 120px;
+  }
+  .mono {
+    margin-top: 0px;
+    font-size: 20px;
+  }
+  .monoL {
+    font-size: 25px;
+  }
+  .flex{
+    min-width: max-content;
+  }
+}
+
 @media only screen and (max-width: 855px) {
   .ill {
-    margin-top: 12vh;
+    margin-top: 15vh;
     min-width: 250px;
-    margin-left: -40vw;
+    margin-left: -28vw;
   }
   .left-side {
     max-width: 200%;
     padding-top: 45vh;
   }
-  .right-side {
+  .hello{
+    padding-top: 20vh;
   }
   .monoL {
     min-width: fit-content;
