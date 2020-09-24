@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Parallax from "react-rellax";
 import Floater from "../../animations/floating";
 import pic1 from "../../assets/Aaditya.svg";
 import github from "../../assets/github.svg";
@@ -21,7 +20,7 @@ class Sec1 extends Component {
       <div className="parent1">
         <div className="section1">
           <div className="left-side ">
-            <Parallax speed={7}>
+            <div>
               <div className="flex hello">
                 <span
                   className="mono"
@@ -31,8 +30,8 @@ class Sec1 extends Component {
                 </span>
                 <span className="monoL">Aaditya Dhanraj</span>
               </div>
-            </Parallax>
-            <Parallax speed={5}>
+            </div>
+            <div>
               <div className="flex">
                 <span
                   style={{
@@ -66,8 +65,8 @@ class Sec1 extends Component {
                   Developer
                 </span>
               </div>
-            </Parallax>
-            <Parallax>
+            </div>
+            <div>
               <div className="social">
                 <a href="https://github.com/Aaditya-Dhanraj" target="_blank">
                   <img alt="" className="socialicon" src={github} />
@@ -82,14 +81,14 @@ class Sec1 extends Component {
                   <img alt="" className="socialicon" src={instagram} />
                 </a>
               </div>
-            </Parallax>
+            </div>
           </div>
           <div className="right-side">
-            <Parallax speed={-2.5}>
+            <div>
               <Floater>
                 <img alt="" className="ill" src={pic1} />
               </Floater>
-            </Parallax>
+            </div>
           </div>
         </div>
       </div>
