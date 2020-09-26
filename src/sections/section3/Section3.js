@@ -22,7 +22,7 @@ const Scetion3 = () => {
         </span>
         <div className="inner1">
           <div className="inner2">
-            <img alt="" src={tripper} className="black black1" />
+            <img alt="" src={tripper} className="black black1" loading="lazy" />
             <div className="second">
               <span
                 style={{
@@ -41,14 +41,14 @@ const Scetion3 = () => {
                   marginLeft: "9px",
                 }}
               >
-                All in one solution for trekking enthusiasts all across the
+                All in one solution for trekking enthusiast all across the
                 gorgeous Himachal Pradesh.
               </span>
             </div>
             <div style={{ display: "flex", flexDirection: "row" }}>
               <div className="link">
                 <a href="https://my-tripper-app.herokuapp.com/" target="_blank">
-                  <img alt="" className="link1" src={link} />
+                  <img alt="" className="link1" src={link} loading="lazy" />
                 </a>
               </div>
               <div className="Link">
@@ -56,7 +56,7 @@ const Scetion3 = () => {
                   href="https://github.com/Aaditya-Dhanraj/Tripper"
                   target="_blank"
                 >
-                  <img alt="" className="link1" src={github} />
+                  <img alt="" className="link1" src={github} loading="lazy" />
                 </a>
               </div>
             </div>
@@ -88,7 +88,7 @@ const Scetion3 = () => {
             <div style={{ display: "flex", flexDirection: "row" }}>
               <div className="link">
                 <a href="" target="_blank">
-                  <img alt="" className="link1" src={link} />
+                  <img alt="" className="link1" src={link} loading="lazy" />
                 </a>
               </div>
               <div className="Link">
@@ -96,13 +96,13 @@ const Scetion3 = () => {
                   href="https://github.com/Aaditya-Dhanraj/Be-Social-Frontend"
                   target="_blank"
                 >
-                  <img alt="" className="link1" src={github} />
+                  <img alt="" className="link1" src={github} loading="lazy" />
                 </a>
               </div>
             </div>
           </div>
           <div className="inner2 subinner2 subinner3">
-            <img alt="" src={brain} className="black2" />
+            <img alt="" src={brain} className="black2" loading="lazy" />
             <div className="second">
               <span
                 style={{
@@ -128,7 +128,7 @@ const Scetion3 = () => {
             <div style={{ display: "flex", flexDirection: "row" }}>
               <div className="link">
                 <a href="" target="_blank">
-                  <img alt="" className="link1" src={link} />
+                  <img alt="" className="link1" src={link} loading="lazy" />
                 </a>
               </div>
               <div className="Link">
@@ -136,7 +136,7 @@ const Scetion3 = () => {
                   href="https://github.com/Aaditya-Dhanraj/Face-Detect-Bot-API"
                   target="_blank"
                 >
-                  <img alt="" className="link1" src={github} />
+                  <img alt="" className="link1" src={github} loading="lazy" />
                 </a>
               </div>
             </div>
