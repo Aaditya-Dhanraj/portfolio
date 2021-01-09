@@ -4,6 +4,8 @@ import pic1 from "../../assets/Aaditya.svg";
 import github from "../../assets/github.svg";
 import linkdin from "../../assets/linkedin.svg";
 import instagram from "../../assets/instagram.svg";
+import cv from "../../assets/cv.svg";
+
 import "./section1.css";
 import { init } from "ityped";
 
@@ -44,16 +46,16 @@ class Sec1 extends Component {
                 >
                   I am a
                 </span>
-                <div id="myElement"
+                <div
+                  id="myElement"
                   className="left"
                   style={{
                     fontFamily: "Times New Roman, Times, serif",
                     color: "black",
                     fontWeight: "bolder",
                     fontSize: "1.5em",
-                  }} >
-                 
-                  </div>
+                  }}
+                ></div>
                 <span
                   style={{
                     fontFamily: "Times New Roman, Times, serif",
@@ -71,14 +73,17 @@ class Sec1 extends Component {
                 <a href="https://github.com/Aaditya-Dhanraj" target="_blank">
                   <img alt="" className="socialicon" src={github} />
                 </a>
-                <a href="https://www.google.com" target="_blank">
+                <a
+                  href="https://www.linkedin.com/in/aaditya-dhanraj/"
+                  target="_blank"
+                >
                   <img alt="" className="socialicon" src={linkdin} />
                 </a>
                 <a
-                  href="https://www.instagram.com/its_aditude/"
+                  href="https://drive.google.com/file/d/1bpuCq-YU2v8BevGWQOmbbOUxSmYRgl24/view?usp=sharing"
                   target="_blank"
                 >
-                  <img alt="" className="socialicon" src={instagram} />
+                  <img alt="" className="cv" src={cv} />
                 </a>
               </div>
             </div>
