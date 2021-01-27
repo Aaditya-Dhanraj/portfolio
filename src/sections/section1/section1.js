@@ -77,7 +77,7 @@ class Sec1 extends Component {
                   href="https://drive.google.com/file/d/1bpuCq-YU2v8BevGWQOmbbOUxSmYRgl24/view?usp=sharing"
                   target="_blank"
                 >
-                  <img alt="" className="socialicon soc2" src={cv} />
+                  <img alt="" className="socialicon" src={cv} />
                 </a>
                 <a
                   href="https://www.linkedin.com/in/aaditya-dhanraj/"
