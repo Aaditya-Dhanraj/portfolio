@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d060246c.chunk.css",
-    "main.js": "/portfolio/static/js/main.1d8e9733.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1d8e9733.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.6811f31c.chunk.css",
+    "main.js": "/portfolio/static/js/main.ec945b79.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ec945b79.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/js/2.8f6e3a8e.chunk.js": "/portfolio/static/js/2.8f6e3a8e.chunk.js",
     "static/js/2.8f6e3a8e.chunk.js.map": "/portfolio/static/js/2.8f6e3a8e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.83622c761ff209b7ef9e1f425f8467bd.js": "/portfolio/precache-manifest.83622c761ff209b7ef9e1f425f8467bd.js",
+    "precache-manifest.5801bae2fa9df1b999f406d7de2ab9b6.js": "/portfolio/precache-manifest.5801bae2fa9df1b999f406d7de2ab9b6.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.d060246c.chunk.css.map": "/portfolio/static/css/main.d060246c.chunk.css.map",
+    "static/css/main.6811f31c.chunk.css.map": "/portfolio/static/css/main.6811f31c.chunk.css.map",
     "static/js/2.8f6e3a8e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8f6e3a8e.chunk.js.LICENSE.txt",
     "static/media/Aaditya.svg": "/portfolio/static/media/Aaditya.82f6084a.svg",
     "static/media/avanzarhealth.png": "/portfolio/static/media/avanzarhealth.60c59cba.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/js/2.8f6e3a8e.chunk.js",
-    "static/css/main.d060246c.chunk.css",
-    "static/js/main.1d8e9733.chunk.js"
+    "static/css/main.6811f31c.chunk.css",
+    "static/js/main.ec945b79.chunk.js"
   ]
 }
