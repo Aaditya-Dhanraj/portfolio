@@ -24,7 +24,7 @@ class Navbar extends Component {
         active3: false,
         active4: false,
       });
-    } else if (sec1 <= 15 && sec1 > height) {
+    } else if (sec1 <= 15 && sec1 > height + 80) {
       this.setState({
         active1: true,
         active2: false,
