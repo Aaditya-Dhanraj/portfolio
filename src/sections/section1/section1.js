@@ -74,16 +74,16 @@ class Sec1 extends Component {
                   <img alt="" className="socialicon" src={github} />
                 </a>
                 <a
+                  href="https://drive.google.com/file/d/1bpuCq-YU2v8BevGWQOmbbOUxSmYRgl24/view?usp=sharing"
+                  target="_blank"
+                >
+                  <img alt="" className="socialicon soc2" src={cv} />
+                </a>
+                <a
                   href="https://www.linkedin.com/in/aaditya-dhanraj/"
                   target="_blank"
                 >
                   <img alt="" className="socialicon" src={linkdin} />
-                </a>
-                <a
-                  href="https://drive.google.com/file/d/1bpuCq-YU2v8BevGWQOmbbOUxSmYRgl24/view?usp=sharing"
-                  target="_blank"
-                >
-                  <img alt="" className="cv" src={cv} />
                 </a>
               </div>
             </div>

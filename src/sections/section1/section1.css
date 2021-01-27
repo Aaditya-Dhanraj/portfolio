@@ -232,3 +232,8 @@
 .socialicon:hover {
   cursor: pointer;
 }
+.soc2{
+width: 100%;
+height: 100%;
+border-radius: 20px;
+}
