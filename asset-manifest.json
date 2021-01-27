@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6811f31c.chunk.css",
-    "main.js": "/portfolio/static/js/main.f4cf9c70.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f4cf9c70.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d060246c.chunk.css",
+    "main.js": "/portfolio/static/js/main.f5f45126.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f5f45126.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/js/2.8f6e3a8e.chunk.js": "/portfolio/static/js/2.8f6e3a8e.chunk.js",
     "static/js/2.8f6e3a8e.chunk.js.map": "/portfolio/static/js/2.8f6e3a8e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.8727613179996c4064da93d6c7bc9da0.js": "/portfolio/precache-manifest.8727613179996c4064da93d6c7bc9da0.js",
+    "precache-manifest.4e9d9ded5012223c5ea30b19545c796e.js": "/portfolio/precache-manifest.4e9d9ded5012223c5ea30b19545c796e.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.6811f31c.chunk.css.map": "/portfolio/static/css/main.6811f31c.chunk.css.map",
+    "static/css/main.d060246c.chunk.css.map": "/portfolio/static/css/main.d060246c.chunk.css.map",
     "static/js/2.8f6e3a8e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8f6e3a8e.chunk.js.LICENSE.txt",
     "static/media/Aaditya.svg": "/portfolio/static/media/Aaditya.82f6084a.svg",
     "static/media/avanzarhealth.png": "/portfolio/static/media/avanzarhealth.60c59cba.png",
     "static/media/brain.svg": "/portfolio/static/media/brain.014560c0.svg",
-    "static/media/cv.svg": "/portfolio/static/media/cv.769012c5.svg",
+    "static/media/cv.svg": "/portfolio/static/media/cv.1416d32a.svg",
     "static/media/github.svg": "/portfolio/static/media/github.b8ba61fe.svg",
     "static/media/github2.png": "/portfolio/static/media/github2.61889089.png",
     "static/media/instagram.svg": "/portfolio/static/media/instagram.aa253b96.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/js/2.8f6e3a8e.chunk.js",
-    "static/css/main.6811f31c.chunk.css",
-    "static/js/main.f4cf9c70.chunk.js"
+    "static/css/main.d060246c.chunk.css",
+    "static/js/main.f5f45126.chunk.js"
   ]
 }
