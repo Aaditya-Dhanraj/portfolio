@@ -32,7 +32,7 @@ const Section2 = () => {
         pointRadius: 3,
         pointBackgroundColor: "rgba(0,0,0,0.5)",
         pointHitRadius: 30,
-        data: [80, 75, 85, 90, 70, 80, 70],
+        data: [80, 75, 90, 95, 80, 85, 75],
       },
     ],
   };
