@@ -36,14 +36,10 @@ const Section2 = () => {
       },
     ],
   };
-  const [wid, setWid] = useState(window.innerWidth);
+  const wid = window.innerWidth;
 
-  useEffect(() => {
-    setWid(window.innerWidth);
-  }, [window.innerWidth]);
   return (
     <div id="sec2" className="section3">
-      {console.log(wid)}
       <div className="outter1">
         <span
           className="inBox1"
