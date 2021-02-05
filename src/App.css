@@ -12,7 +12,7 @@ body {
   min-height: 100vh;
 }
 .btnTop {
-  position: fixed;
+  position: absolute;
   top: 18vh;
   right: 0;
   padding: 20px;
